@@ -1,3 +1,3 @@
 # Hello
-Basic c file handling. Adding content.
+Basic c file handling.
 
